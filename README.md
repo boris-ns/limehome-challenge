@@ -1,6 +1,7 @@
 # Limehome fullstack challenge
 
-NOTE: Backend solution
+`NOTE`: Backend solution  
+`API documentation` is available at http://localhost:3000/api/#/
 
 ## Project setup
 
