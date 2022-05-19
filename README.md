@@ -1,4 +1,6 @@
-# limehome-challenge
+# Limehome fullstack challenge
+
+NOTE: Backend solution
 
 ## Project setup
 
